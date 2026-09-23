@@ -15,7 +15,7 @@ Writer, developer, and creator of the **Convertible Cranium** ecosystem.
 | **Name** | William “Wyl” Mathes |
 | **Brand** | WorthWyl |
 | **Platform** | Convertible Cranium |
-| **Company (platform)** | Convertible Cranium LLC *(entity formation in progress)* |
+| **Company (platform)** | Convertible Cranium Engineering LLC *(formation and assignment status to be confirmed)* |
 
 I am WorthWyl. The public work under this name—software, media, and foundation—is mine.
 
@@ -26,10 +26,10 @@ I am WorthWyl. The public work under this name—software, media, and foundation
 ```text
 William “Wyl” Mathes
 │
-├── Convertible Cranium LLC          ← platform / licensing vehicle (formation in progress)
+├── Convertible Cranium Engineering LLC ← engineering / platform / licensing vehicle (formation and assignment status to be confirmed)
 │     Convertible Cranium ecosystem
-│       · Kernel / Core — authority, policy, receipts
-│       · Synapse — evidence, attestation, capability context
+│       · Convertible Core / Kernel — authority, policy, receipts
+│       · Convertible Synapse — evidence, attestation, capability context
 │       · AI — interpretation and orchestration
 │       · Miracle Memory · Cognitive Tracker · Acquisition Drive
 │       · WorthWyl Studio / Forge — governed creative operator surface
@@ -52,10 +52,10 @@ Kernel / Core evaluates, binds evidence, enforces policy, commits durable state,
 
 | Layer | Role |
 |-------|------|
-| **Core / Kernel** | Authority transitions, invariant checks, receipts, recovery |
-| **Synapse** | Attestation, risk signals, capability binding |
+| **Convertible Core / Kernel** | Authority transitions, invariant checks, receipts, recovery |
+| **Convertible Synapse** | Attestation, risk signals, capability binding |
 | **AI** | Interpretation and orchestration (proposals, not authority) |
-| **Miracle Memory** | Authorized continuity |
+| **Convertible Miracle Memory** | Authorized continuity |
 | **Cognitive Tracker** | Evaluation and performance evidence |
 | **Acquisition Drive** | Portable diligence, recovery, distribution surface |
 | **WorthWyl Studio / Forge** | Creative control room — media, voice, synthesis, render |
@@ -90,12 +90,12 @@ Verification evidence (including adversarial Kernel campaigns) is available unde
 
 | Branch | Purpose |
 |--------|---------|
-| **Convertible Cranium LLC** | Platform company · governance substrate · institutional partnerships |
+| **Convertible Cranium Engineering LLC** | Intended platform company · governance substrate · institutional partnerships |
 | **WorthWyl Media** | Publishing · KDP · creative and engineering presentation |
 | **Worth Wyl Foundation** | Nonprofit · community impact · Las Vegas |
 | **WorthWyl Studio** | Flagship creative vertical on the Cranium substrate |
 
-Brand branches remain operationally distinct. Platform IP and licensing are intended to sit with **Convertible Cranium LLC** once formation and assignment are complete.
+Brand branches remain operationally distinct. Platform IP and licensing are intended to sit with **Convertible Cranium Engineering LLC** once formation and assignment are complete.
 
 ---
 
@@ -105,4 +105,4 @@ Technical diligence, licensing, publishing, or collaboration: use contact detail
 
 **© 2026 Wyl Mathes. All Rights Reserved.**  
 WorthWyl Media · Las Vegas, NV  
-Platform: Convertible Cranium · Convertible Cranium LLC (entity formation in progress)
+Platform: Convertible Cranium · Convertible Cranium Engineering LLC (formation and assignment status to be confirmed)
