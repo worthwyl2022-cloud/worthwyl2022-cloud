@@ -21,6 +21,10 @@ This is not positioned as another model, agent wrapper, or single-purpose applic
 
 ---
 
+## Architecture control plane
+
+The current GitHub portfolio is a **24-repository infrastructure ecosystem** with one canonical authority boundary. The architecture and machine-readable role manifest live in [cranium-portfolio](https://github.com/worthwyl2022-cloud/cranium-portfolio), including [Infrastructure Architecture v1](https://github.com/worthwyl2022-cloud/cranium-portfolio/blob/main/ECOSYSTEM_ARCHITECTURE_V1.md) and [Ecosystem Manifest v1](https://github.com/worthwyl2022-cloud/cranium-portfolio/blob/main/ECOSYSTEM_MANIFEST_V1.json). Repository separation is intentional where it preserves authority, security, release, deployment, or diligence boundaries.
+
 ## Portfolio architecture
 
 | Layer | What it is | Representative surfaces |
