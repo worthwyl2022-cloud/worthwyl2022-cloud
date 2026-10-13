@@ -1,46 +1,41 @@
-# William “Wyl” Mathes
+# William (Wyl) Mathes
 
-Writer, developer, and creator of **Convertible Cranium**: a multi-plane cognitive governance substrate for AI infrastructure.
+Writer, developer, and creator of **Convertible Cranium**, an AI governance and creator ecosystem designed to separate cognition, evidence, authority, and execution.
 
 > “Wyl” is pronounced like *while*.
 
-**Las Vegas / Henderson, Nevada** · WorthWyl Media
-
----
+**WorthWyl Media** · Las Vegas / Henderson, Nevada
 
 ## The category thesis
 
 Convertible Cranium addresses the governance gap between AI cognition and real-world action.
 
-> **Cognition may come from anywhere. Authority comes only through Convertible Cranium.**
+> **Cognition may come from anywhere. Authority comes only through Cranium.**
 
-- **Synapse** produces bounded cognition, evidence, attestation, and risk context.
-- **Kernel** (`cranium-kernel`) is the sole canonical authority evaluator, state governor, and receipt issuer.
+- **Cranium AI** proposes cognition and supports intelligence workflows.
+- **Cranium Synapse** handles bounded proposal processing, evidence, attestation, and risk context.
+- **Cranium Kernel** is the sole canonical authority boundary. Its implementation repository is private; this public profile does not imply public source access.
+- **Cranium Commander** is the operational control surface, not an authority source.
 
-This is not another model, agent wrapper, or single-purpose application. It is a governance substrate.
+Convertible Cranium is a governance substrate, not merely a model, agent wrapper, or single-purpose application.
 
----
+## Start here: public review path
 
-## Start here: acquisition review path
+1. **[Convertible Cranium public front door](https://github.com/worthwylmedia-lang/worthwylmedia-lang)**: ecosystem map and entry points.
+2. **[Cranium-Infrastructure acquisition binder](https://github.com/worthwylmedia-lang/Cranium-Infrastructure)**: architecture, evidence posture, and implementation gaps.
+3. **[Convertible Cranium Commander](https://github.com/worthwyl2022-cloud/convertible-cranium-commander)**: Chromium Edition operational surface and governance documentation.
+4. **[Acquisition Demo Drive](https://github.com/worthwyl2022-cloud/cranium-acquisition-demo-drive)**: buyer-facing offline demonstration.
+5. **[Cranium AI](https://github.com/worthwyl2022-cloud/cranium-ai)**: cognitive proposal layer.
+6. **[Cranium Metacognitive Mapper](https://github.com/worthwyl2022-cloud/cranium-metacognitive-mapper)**: supporting metacognitive mapping surface.
 
-1. **[cranium-kernel](https://github.com/worthwyl2022-cloud/cranium-kernel)** — sole canonical authority source
-2. **[cranium-portfolio](https://github.com/worthwyl2022-cloud/cranium-portfolio)** — acquisition-facing overview
-3. **[cranium-acquisition-demo-drive](https://github.com/worthwyl2022-cloud/cranium-acquisition-demo-drive)** — offline buyer demonstration (Cranium AI as host)
-4. **[cranium-content-hub](https://github.com/worthwyl2022-cloud/cranium-content-hub)** — technical documentation
-
-All other repositories are supporting, demonstration, historical, or documentation surfaces.
-
----
+Archived repositories are historical lineage, not active entry points. The public binder distinguishes verified, self-attested, pending, and not-claimed work; a public description is not proof of implementation.
 
 ## Review standard
 
-Canonical authority remains exclusively in `cranium-kernel`. Adapters and clients must not implement a second authority engine.
+Canonical authority remains exclusively in the Cranium Kernel. Models and adapters may propose cognition, but they do not grant authority or create canonical receipts.
 
----
+## Contact and diligence
 
-## Contact
+For technical diligence, licensing, or collaboration context, begin with the [public architecture binder](https://github.com/worthwylmedia-lang/Cranium-Infrastructure).
 
-Technical diligence, licensing, or collaboration: see the [content hub](https://github.com/worthwyl2022-cloud/cranium-content-hub).
-
-**© 2026 Wyl Mathes. All Rights Reserved.**  
-WorthWyl Media · Las Vegas, NV
+**© 2026 William (Wyl) Mathes. All rights reserved.**
