@@ -1,6 +1,6 @@
 # William (Wyl) Mathes
 
-Writer, developer, and creator of **Convertible Cranium**, an AI governance and creator ecosystem designed to separate cognition, evidence, authority, and execution.
+Writer, developer, and creator of **Convertible Cranium** / **Justice OS** — an AI governance ecosystem that separates cognition, evidence, authority, and execution.
 
 > “Wyl” is pronounced like *while*.
 
@@ -8,34 +8,36 @@ Writer, developer, and creator of **Convertible Cranium**, an AI governance and 
 
 ## The category thesis
 
-Convertible Cranium addresses the governance gap between AI cognition and real-world action.
+> **Cognition may come from anywhere. Authority comes only through Liberty Kernel (Cranium Kernel).**
 
-> **Cognition may come from anywhere. Authority comes only through Cranium.**
+| Layer | Role |
+|-------|------|
+| **Justice OS** | Authority-bound operating-system *product* story |
+| **Commander AI** | Operational interface — proposes, does not grant |
+| **Guardian + Imperial substrates** | Constitutional integrity · Evidence integrity |
+| **Synapse** | Ingress / attestation — **never** an authority grant |
+| **Liberty Kernel** (`cranium-kernel`) | **Sole** grant / deny / receipt boundary |
 
-- **Cranium AI** proposes cognition and supports intelligence workflows.
-- **Cranium Synapse** handles bounded proposal processing, evidence, attestation, and risk context.
-- **Cranium Kernel** is the sole canonical authority boundary. Its implementation repository is private; this public profile does not imply public source access.
-- **Cranium Commander** is the operational control surface, not an authority source.
+Models, UI, quantum targets, and adapters may propose. They do not grant authority or mint canonical receipts.
 
-Convertible Cranium is a governance substrate, not merely a model, agent wrapper, or single-purpose application.
+**Account map:** [ACCOUNT_INVENTORY.md](./ACCOUNT_INVENTORY.md)
 
 ## Start here: public review path
 
-1. **[Convertible Cranium public front door](https://github.com/worthwylmedia-lang/worthwylmedia-lang)**: ecosystem map and entry points.
-2. **[Cranium-Infrastructure acquisition binder](https://github.com/worthwylmedia-lang/Cranium-Infrastructure)**: architecture, evidence posture, and implementation gaps.
-3. **[Convertible Cranium Commander](https://github.com/worthwyl2022-cloud/convertible-cranium-commander)**: Chromium Edition operational surface and governance documentation.
-4. **[Acquisition Demo Drive](https://github.com/worthwyl2022-cloud/cranium-acquisition-demo-drive)**: buyer-facing offline demonstration.
-5. **[Cranium AI](https://github.com/worthwyl2022-cloud/cranium-ai)**: cognitive proposal layer.
-6. **[Cranium Metacognitive Mapper](https://github.com/worthwyl2022-cloud/cranium-metacognitive-mapper)**: supporting metacognitive mapping surface.
+1. **[Account inventory](./ACCOUNT_INVENTORY.md)** — live vs archive, spine vs surfaces  
+2. **[Convertible Cranium Commander](https://github.com/worthwyl2022-cloud/convertible-cranium-commander)** — Justice OS public surface + architecture  
+3. **[Acquisition Demo Drive](https://github.com/worthwyl2022-cloud/cranium-acquisition-demo-drive)** — buyer-facing offline demonstration  
+4. **[Cranium AI](https://github.com/worthwyl2022-cloud/cranium-ai)** — cognitive proposal layer (non-canonical)  
+5. **Kernel** — private implementation; project-verified diligence pin `710ab84` (see Kernel `KERNEL_PIN` / completion status). Public description is not public source access.
 
-Archived repositories are historical lineage, not active entry points. The public binder distinguishes verified, self-attested, pending, and not-claimed work; a public description is not proof of implementation.
+Archived repositories are historical lineage, not active entry points. A README is not proof of production deployment, HSM, verified boot, or third-party audit.
 
 ## Review standard
 
-Canonical authority remains exclusively in the Cranium Kernel. Models and adapters may propose cognition, but they do not grant authority or create canonical receipts.
+Canonical authority remains exclusively in **Liberty Kernel** (`cranium-kernel`). Surfaces may propose cognition; they do not grant authority or create canonical receipts.
 
 ## Contact and diligence
 
-For technical diligence, licensing, or collaboration context, begin with the [public architecture binder](https://github.com/worthwylmedia-lang/Cranium-Infrastructure).
+For technical diligence, licensing, or collaboration: lead with the Kernel pin and Justice OS completion status; use Schedule A (product surface) vs Schedule B (authority retained) language with counsel.
 
 **© 2026 William (Wyl) Mathes. All rights reserved.**
